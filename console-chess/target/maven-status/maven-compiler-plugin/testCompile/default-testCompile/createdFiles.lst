@@ -1,0 +1,8 @@
+com\chess\rules\CastlingTest.class
+com\chess\rules\CheckDetectorTest.class
+com\chess\BasicSetupTest.class
+com\chess\rules\MoveValidatorTest.class
+com\chess\persist\SaveLoadTest.class
+com\chess\service\GameServiceStatusTest.class
+com\chess\rules\EnPassantTest.class
+com\chess\domain\BoardTest.class

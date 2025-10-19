@@ -1,0 +1,11 @@
+8: br bn bb bq bk bb bn br
+7: -- bp bp bp bp bp bp bp
+6: -- -- -- -- -- -- -- --
+5: bp -- -- -- -- -- -- --
+4: -- -- -- -- -- -- -- --
+3: wp -- -- -- -- -- -- --
+2: -- wp wp wp wp wp wp wp
+1: wr wn wb wq wk wb wn wr
+toMove: WHITE
+rights: KQkq
+ep: 103
